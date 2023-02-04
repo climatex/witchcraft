@@ -7,3 +7,6 @@ Check out [goto.cpp](https://github.com/climatex/witchcraft/blob/master/goto/got
 
 *private*: Read/write of private member variables outside of a class, using memory access.
 Works with classes without a vftable (virtual functions) and proper boundary alignment.
+
+*nixie*: Off-line, AC-synchronized nixie clock with an Arduino Mega2560 and optional DCF module.
+Check out [my website](http://boginjr.com/electronics/lv/nixie-clock/) for more details.
